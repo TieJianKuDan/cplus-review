@@ -1,0 +1,8 @@
+*.o
+*.out
+*.s
+*.i
+*.txt
+*/out/*
+!*/out/*.py
+!*/out/.gitkeep
